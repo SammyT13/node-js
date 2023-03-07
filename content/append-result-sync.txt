@@ -1,0 +1,2 @@
+Showing you how to append to this file!
+Here is the result: Hello this is first text file!, Hello this is second text file!Here is the result: Hello this is first text file!, Hello this is second text file!
